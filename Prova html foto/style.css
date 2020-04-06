@@ -1,0 +1,75 @@
+/* Generali */
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #fff;
+}
+
+h1 {
+  margin: 0;
+  color: red;
+}
+.h1 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.image {
+  /*margin: 0;
+  padding: 0;
+  position: absolute;
+  z-index: -1;*/
+  background: url("img/home-foto.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 100vh;
+}
+
+.slide {
+  width: max-content;
+  height: 100vh;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  width: auto;
+  transform: rotate(90deg) translateY(-100vh);
+  transform-origin: top left;
+}
+
+.one {
+  background: red;
+}
+
+.outer-wrapper {
+  width: fit-content;
+  height: 100vw;
+  transform: rotate(-90deg) translateX(-100vh);
+  transform-origin: top left;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  position: absolute;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto, 10vw);
+  grid-template-rows: repeat(4, 25%);
+}
+
+.uno {
+  grid-column: 2/5;
+  grid-row: 1/2;
+}
+
+.due {
+  grid-column: 2/5;
+  grid-row: 3/5;
+}
