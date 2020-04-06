@@ -44,9 +44,6 @@ h1 {
   transform-origin: top left;
 }
 
-.one {
-}
-
 .outer-wrapper {
   width: fit-content;
   height: 100vw;
@@ -58,9 +55,9 @@ h1 {
 }
 
 .grid {
-  height: 100vh;
+  max-height: 90vh;
   box-sizing: content-box;
-  padding: 20px;
+  padding: 5vh;
   padding-bottom: 50px;
   display: grid;
   grid-template-columns: repeat(20, 10vh);
