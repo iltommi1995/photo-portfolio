@@ -3,7 +3,7 @@
 .grid-places {
   height: 100vh;
   background-color: yellow;
-  grid-template-columns: repeat(20, 10vh);
+  grid-template-columns: repeat(15, 10vh);
   grid-template-rows: repeat(6, 1fr);
   column-gap: 20px;
   row-gap: 10px;
@@ -26,8 +26,8 @@
 /* Vari posti hardcodati, poi da fare col map de json */
 
 .posto1 {
-  grid-column: 1/4;
-  grid-row: 1/4;
+  grid-column: span 3;
+  grid-row: span 3;
 }
 
 .img-pl-1 {

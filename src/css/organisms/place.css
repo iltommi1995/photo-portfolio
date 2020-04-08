@@ -1,0 +1,22 @@
+.place {
+  grid-column: span 3;
+  grid-row: span 3;
+}
+
+/* Immagine del singolo posto */
+
+.posto-image {
+  width: 100%;
+  height: 66%;
+  background-color: red;
+}
+
+.posto-image > img {
+  width: 100%;
+  height: 100%;
+}
+
+/* Titolo del singolo posto */
+
+.posto-title {
+}

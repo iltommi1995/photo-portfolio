@@ -6,6 +6,7 @@ import "./App.css";
 import Menu from "./components/organisms/menu";
 import Home from "./components/pages/home";
 import Places from "./components/pages/places";
+import PlaceAlbum from "./components/pages/placeAlbum";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Switch>
         <Route exact path="/" component={Home} />
         <Route path={"/places"} component={Places} />
+        <Route exact path="/placeAlbum/:id" component={PlaceAlbum} />
       </Switch>
     </div>
   );

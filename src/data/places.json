@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "name": "Berlin",
+    "img": "/img/berlin/berlin_cover.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Chile",
+    "img": "/img/chile/chile_cover.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Corniglio",
+    "img": "/img/corniglio/corniglio_cover.png"
+  },
+  {
+    "id": 4,
+    "name": "Costa Rica",
+    "img": "/img/costa_rica/costa_rica_cover.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Grenoble",
+    "img": "/img/grenoble/grenoble_5.jpg",
+    "foto": {
+      "foto1": {
+        "path": "/img/grenoble/grenoble_2.jpg",
+        "class": "quattro_terzi"
+      },
+      "foto2": {
+        "path": "/img/grenoble/grenoble_3.jpg",
+        "class": "quattro_terzi"
+      },
+      "foto3": {
+        "path": "/img/grenoble/grenoble_4.jpg",
+        "class": "quattro_terzi"
+      },
+      "foto4": {
+        "path": "/img/grenoble/grenoble_5.jpg",
+        "class": "quattro_terzi"
+      },
+      "foto5": {
+        "path": "/img/grenoble/grenoble_6.jpg",
+        "class": "quattro_terzi"
+      },
+      "foto6": {
+        "path": "/img/grenoble/grenoble_7.jpg",
+        "class": "quattro_terzi"
+      },
+      "foto7": {
+        "path": "/img/grenoble/grenoble_1.jpg",
+        "class": "sedici_noni"
+      }
+    }
+  },
+  {
+    "id": 6,
+    "name": "London",
+    "img": "/img/london/london_cover.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Milan",
+    "img": "/img/milan/milan_cover.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Rome",
+    "img": "/img/rome/rome_cover.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Stockholm",
+    "img": "/img/stockholm/stockholm_cover.jpg"
+  }
+]
