@@ -1,3 +1,5 @@
+/* Attributi specifici della griglia di Places */
+
 .grid-places {
   height: 100vh;
   background-color: yellow;
@@ -5,8 +7,10 @@
   grid-template-rows: repeat(6, 1fr);
   column-gap: 20px;
   row-gap: 10px;
-  padding-left: 15vw;
+  padding-left: 10vw;
 }
+
+/* Immagine del singolo posto */
 
 .posto-image {
   width: 100%;
@@ -14,8 +18,12 @@
   background-color: red;
 }
 
+/* Titolo del singolo posto */
+
 .posto-title {
 }
+
+/* Vari posti hardcodati, poi da fare col map de json */
 
 .posto1 {
   grid-column: 1/4;

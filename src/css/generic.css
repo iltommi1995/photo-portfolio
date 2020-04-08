@@ -1,13 +1,19 @@
+/* SCRITTE */
+
+h1 {
+  margin: 0;
+  color: red;
+}
+
+/* STRUTTURA PRINCIPALE */
+
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
   background: #fff;
 }
 
-h1 {
-  margin: 0;
-  color: red;
-}
+/* Wrapper e outer-wrapper capovolgono struttura sito, permettendo scroll orizzontale */
 
 .wrapper {
   display: flex;
@@ -26,11 +32,21 @@ h1 {
   position: absolute;
 }
 
+/* Attrivuti della griglia uguali in tutte le pagine */
+
+.grid {
+  max-height: 90vh;
+  padding: 5vh;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 10vh);
+  grid-template-rows: repeat(6, 1fr);
+  column-gap: 50px;
+  row-gap: 20px;
+}
+
+/* Attributi dell'immagine di copertina uguali per tutte le pagine che la hanno */
+
 .image {
-  /*margin: 0;
-  padding: 0;
-  position: absolute;
-  z-index: -1;*/
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
