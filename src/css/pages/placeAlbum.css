@@ -32,7 +32,7 @@
 }
 
 .scritta {
-  grid-column: 1/5;
+  grid-column: span 4;
   grid-row: 1/4;
   display: flex;
   justify-content: center;
@@ -43,12 +43,12 @@ img {
   height: 100%;
 }
 
-.quattro_terzi {
-  grid-column: span 4;
+.quattro-terzi {
   grid-row: span 3;
+  grid-column: span 4;
 }
 
-.sedici_noni {
+.sedici-noni {
+  grid-row: span 3;
   grid-column: span 6;
-  grid-row-start: span 3;
 }

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "path": "/img/grenoble/grenoble_2.jpg",
+    "place": "Grenoble",
+    "year": 2019,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 2,
+    "path": "/img/grenoble/grenoble_3.jpg",
+    "place": "Grenoble",
+    "year": 2019,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 3,
+    "path": "/img/grenoble/grenoble_4.jpg",
+    "place": "Grenoble",
+    "year": 2019,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 4,
+    "path": "/img/grenoble/grenoble_5.jpg",
+    "place": "Grenoble",
+    "year": 2019,
+    "color": false,
+    "digital": true,
+    "mainImage": true,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 5,
+    "path": "/img/grenoble/grenoble_6.jpg",
+    "place": "Grenoble",
+    "year": 2019,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 6,
+    "path": "/img/grenoble/grenoble_7.jpg",
+    "place": "Grenoble",
+    "year": 2018,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 7,
+    "path": "/img/grenoble/grenoble_1.jpg",
+    "place": "Grenoble",
+    "year": 2019,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "sedici-noni"
+  },
+  {
+    "id": 8,
+    "path": "/img/berlin/berlin_cover.jpg",
+    "place": "Berlin",
+    "year": 2019,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  }
+]
