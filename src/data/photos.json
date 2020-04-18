@@ -84,7 +84,7 @@
     "path": "/img/milan/2017/milan_2.jpg",
     "place": "Milan",
     "year": 2017,
-    "color": false,
+    "color": true,
     "digital": true,
     "mainImage": false,
     "class": "quattro-terzi"
@@ -104,7 +104,7 @@
     "path": "/img/milan/2017/milan_4.jpg",
     "place": "Milan",
     "year": 2017,
-    "color": false,
+    "color": true,
     "digital": true,
     "mainImage": false,
     "class": "quattro-terzi"
@@ -184,6 +184,386 @@
     "path": "/img/milan/2018/milan_12.jpg",
     "place": "Milan",
     "year": 2018,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 20,
+    "path": "/img/milan/2018/milan_13.jpg",
+    "place": "Milan",
+    "year": 2018,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 21,
+    "path": "/img/milan/2018/milan_14.jpg",
+    "place": "Milan",
+    "year": 2018,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 22,
+    "path": "/img/milan/2018/milan_15.jpg",
+    "place": "Milan",
+    "year": 2018,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 23,
+    "path": "/img/milan/2018/milan_16.jpg",
+    "place": "Milan",
+    "year": 2018,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 24,
+    "path": "/img/milan/2018/milan_17.jpg",
+    "place": "Milan",
+    "year": 2018,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 25,
+    "path": "/img/milan/2018/milan_18.jpg",
+    "place": "Milan",
+    "year": 2018,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 26,
+    "path": "/img/milan/2018/milan_19.jpg",
+    "place": "Milan",
+    "year": 2018,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 27,
+    "path": "/img/milan/2018/milan_20.jpg",
+    "place": "Milan",
+    "year": 2018,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 28,
+    "path": "/img/milan/2018/milan_21.jpg",
+    "place": "Milan",
+    "year": 2018,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 29,
+    "path": "/img/milan/2018/milan_22.jpg",
+    "place": "Milan",
+    "year": 2018,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 30,
+    "path": "/img/corniglio/2019/corniglio_1.jpg",
+    "place": "Corniglio",
+    "year": 2019,
+    "color": false,
+    "digital": false,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 31,
+    "path": "/img/corniglio/2019/corniglio_2.jpg",
+    "place": "Corniglio",
+    "year": 2019,
+    "color": false,
+    "digital": false,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 32,
+    "path": "/img/corniglio/2019/corniglio_3.jpg",
+    "place": "Corniglio",
+    "year": 2019,
+    "color": false,
+    "digital": false,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 33,
+    "path": "/img/corniglio/2019/corniglio_4.jpg",
+    "place": "Corniglio",
+    "year": 2019,
+    "color": false,
+    "digital": false,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 34,
+    "path": "/img/corniglio/2019/corniglio_5.jpg",
+    "place": "Corniglio",
+    "year": 2019,
+    "color": false,
+    "digital": false,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 35,
+    "path": "/img/corniglio/2019/corniglio_6.jpg",
+    "place": "Corniglio",
+    "year": 2019,
+    "color": false,
+    "digital": false,
+    "mainImage": true,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 36,
+    "path": "/img/corniglio/2019/corniglio_7.jpg",
+    "place": "Corniglio",
+    "year": 2019,
+    "color": false,
+    "digital": false,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 37,
+    "path": "/img/berlin/2016/berlin_1.jpg",
+    "place": "Berlin",
+    "year": 2019,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 38,
+    "path": "/img/berlin/2016/berlin_2.jpg",
+    "place": "Berlin",
+    "year": 2019,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 39,
+    "path": "/img/berlin/2016/berlin_3.jpg",
+    "place": "Berlin",
+    "year": 2019,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 40,
+    "path": "/img/berlin/2016/berlin_4.jpg",
+    "place": "Berlin",
+    "year": 2019,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 41,
+    "path": "/img/berlin/2016/berlin_5.jpg",
+    "place": "Berlin",
+    "year": 2019,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 42,
+    "path": "/img/berlin/2016/berlin_6.jpg",
+    "place": "Berlin",
+    "year": 2019,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 43,
+    "path": "/img/berlin/2016/berlin_7.jpg",
+    "place": "Berlin",
+    "year": 2019,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 44,
+    "path": "/img/berlin/2016/berlin_8.jpg",
+    "place": "Berlin",
+    "year": 2019,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 45,
+    "path": "/img/berlin/2016/berlin_9.jpg",
+    "place": "Berlin",
+    "year": 2019,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 46,
+    "path": "/img/berlin/2016/berlin_10.jpg",
+    "place": "Berlin",
+    "year": 2019,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 47,
+    "path": "/img/berlin/2016/berlin_11.jpg",
+    "place": "Berlin",
+    "year": 2019,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 48,
+    "path": "/img/berlin/2016/berlin_12.jpg",
+    "place": "Berlin",
+    "year": 2019,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 49,
+    "path": "/img/berlin/2016/berlin_13.jpg",
+    "place": "Berlin",
+    "year": 2019,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 50,
+    "path": "/img/berlin/2016/berlin_14.jpg",
+    "place": "Berlin",
+    "year": 2019,
+    "color": false,
+    "digital": true,
+    "mainImage": true,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 51,
+    "path": "/img/berlin/2016/berlin_15.jpg",
+    "place": "Berlin",
+    "year": 2019,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 52,
+    "path": "/img/berlin/2016/berlin_16.jpg",
+    "place": "Berlin",
+    "year": 2019,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 53,
+    "path": "/img/berlin/2016/berlin_17.jpg",
+    "place": "Berlin",
+    "year": 2019,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 54,
+    "path": "/img/berlin/2016/berlin_18.jpg",
+    "place": "Berlin",
+    "year": 2019,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 55,
+    "path": "/img/berlin/2016/berlin_19.jpg",
+    "place": "Berlin",
+    "year": 2019,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 56,
+    "path": "/img/berlin/2016/berlin_20.jpg",
+    "place": "Berlin",
+    "year": 2019,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 57,
+    "path": "/img/berlin/2016/berlin_21.jpg",
+    "place": "Berlin",
+    "year": 2019,
     "color": false,
     "digital": true,
     "mainImage": false,

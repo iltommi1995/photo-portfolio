@@ -1,6 +1,8 @@
 import React, { Component } from "react";
 
-export default class PlaceAlbumPhotos extends Component {
+import "../../css/organisms/image.css";
+
+export default class Image extends Component {
   state = {
     on: false,
   };
@@ -12,14 +14,15 @@ export default class PlaceAlbumPhotos extends Component {
   };
   render() {
     return (
-      <div class={this.props.class}>
+      <div>
         {this.state.on && (
           <div className="card-open">
             <h1>Bella raga</h1>
             <button onClick={this.toggle}>Show/Hide</button>
           </div>
         )}
-        <img src={this.props.path} onClick={this.toggle} />
+
+        <button onClick={this.toggle}>Show/Hide</button>
       </div>
     );
   }
