@@ -71,9 +71,119 @@
   },
   {
     "id": 8,
-    "path": "/img/berlin/berlin_cover.jpg",
-    "place": "Berlin",
-    "year": 2019,
+    "path": "/img/milan/2017/milan_1.jpg",
+    "place": "Milan",
+    "year": 2017,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 9,
+    "path": "/img/milan/2017/milan_2.jpg",
+    "place": "Milan",
+    "year": 2017,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 10,
+    "path": "/img/milan/2017/milan_3.jpg",
+    "place": "Milan",
+    "year": 2017,
+    "color": true,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 11,
+    "path": "/img/milan/2017/milan_4.jpg",
+    "place": "Milan",
+    "year": 2017,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 12,
+    "path": "/img/milan/2017/milan_5.jpg",
+    "place": "Milan",
+    "year": 2017,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 13,
+    "path": "/img/milan/2017/milan_6.jpg",
+    "place": "Milan",
+    "year": 2017,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 14,
+    "path": "/img/milan/2017/milan_7.jpg",
+    "place": "Milan",
+    "year": 2017,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 15,
+    "path": "/img/milan/2018/milan_8.jpg",
+    "place": "Milan",
+    "year": 2018,
+    "color": false,
+    "digital": true,
+    "mainImage": true,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 16,
+    "path": "/img/milan/2018/milan_9.jpg",
+    "place": "Milan",
+    "year": 2018,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 17,
+    "path": "/img/milan/2018/milan_10.jpg",
+    "place": "Milan",
+    "year": 2018,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 18,
+    "path": "/img/milan/2018/milan_11.jpg",
+    "place": "Milan",
+    "year": 2018,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 19,
+    "path": "/img/milan/2018/milan_12.jpg",
+    "place": "Milan",
+    "year": 2018,
     "color": false,
     "digital": true,
     "mainImage": false,

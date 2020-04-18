@@ -25,7 +25,7 @@
 
 .grid {
   display: grid;
-  grid-auto-columns: auto;
+  grid-auto-columns: 10vh;
   grid-template-rows: repeat(6, 1fr);
   column-gap: 50px;
   row-gap: 20px;
