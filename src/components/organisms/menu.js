@@ -4,9 +4,13 @@ import "../../css/menu.css";
 import { NavLink } from "react-router-dom";
 
 export default function Menu() {
+  function uncheck() {
+    document.getElementById("menu-btn").checked = false;
+  }
+
   return (
     <div className="menu-wrap">
-      <input type="checkbox" className="toggler"></input>
+      <input type="checkbox" className="toggler" id="menu-btn"></input>
       <div className="hamburger">
         <div></div>
       </div>
@@ -15,19 +19,19 @@ export default function Menu() {
           <div>
             <ul>
               <li>
-                <NavLink to="/">Home</NavLink>
+                <NavLink to="/" onClick={uncheck}>
+                  Home
+                </NavLink>
               </li>
               <li>
-                <a href="#">About me</a>
+                <NavLink to="/aboutMe" onClick={uncheck}>
+                  About Me
+                </NavLink>
               </li>
               <li>
-                <NavLink to="/places">Places</NavLink>
-              </li>
-              <li>
-                <a href="#">Analog</a>
-              </li>
-              <li>
-                <a href="#">Digital</a>
+                <NavLink to="/places" onClick={uncheck}>
+                  Places
+                </NavLink>
               </li>
             </ul>
           </div>

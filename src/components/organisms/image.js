@@ -1,29 +1,18 @@
-import React, { Component } from "react";
+import React, { useState } from "react";
 
-import "../../css/organisms/image.css";
+import Modal from "react-modal";
 
-export default class Image extends Component {
-  state = {
-    on: false,
-  };
+export default function Image() {
+  const [modalIsOpen, setModalIsOpen] = useState(false);
 
-  toggle = () => {
-    this.setState({
-      on: !this.state.on,
-    });
-  };
-  render() {
-    return (
-      <div>
-        {this.state.on && (
-          <div className="card-open">
-            <h1>Bella raga</h1>
-            <button onClick={this.toggle}>Show/Hide</button>
-          </div>
-        )}
-
-        <button onClick={this.toggle}>Show/Hide</button>
-      </div>
-    );
-  }
+  return (
+    <div>
+      <p onClick={() => setModalIsOpen(!modalIsOpen)}>Open modal</p>
+      <Modal isOpen={modalIsOpen}>
+        <h2>Modal Title</h2>
+        <p>Bella raga</p>
+        <button onClick={() => setModalIsOpen(!modalIsOpen)}>Open modal</button>
+      </Modal>
+    </div>
+  );
 }
