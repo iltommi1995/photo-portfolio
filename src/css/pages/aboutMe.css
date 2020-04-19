@@ -1,0 +1,17 @@
+.grid-aboutMe {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-template-rows: repeat(12, 1fr);
+  height: 100vh;
+}
+
+.my-photo {
+  grid-column: 2/6;
+  grid-row: 2/12;
+  background-color: red;
+}
+
+.my-description {
+  grid-column: 7/11;
+  grid-row: 4/10;
+}
