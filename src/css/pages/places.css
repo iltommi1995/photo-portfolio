@@ -10,6 +10,13 @@
   padding-left: 10vw;
 }
 
+/* Spazio occupato nella griglia da ogni singolo posto */
+
+.place {
+  grid-column: span 3;
+  grid-row: span 3;
+}
+
 /* Immagine del singolo posto */
 
 .posto-image {
@@ -18,71 +25,7 @@
   background-color: red;
 }
 
-/* Titolo del singolo posto */
-
-.posto-title {
-}
-
-/* Vari posti hardcodati, poi da fare col map de json */
-
-.posto1 {
-  grid-column: span 3;
-  grid-row: span 3;
-}
-
-.img-pl-1 {
-  background: url("/img/home-foto.jpg");
-  background-size: cover;
-}
-
-.img-pl-2 {
-  background: url("/img/grenoble/grenoble_5.jpg");
-  background-size: cover;
-}
-
-.posto2 {
-  grid-column: 1/4;
-  grid-row: 4/7;
-}
-
-.posto3 {
-  grid-column: 5/8;
-  grid-row: 1/4;
-  background-color: #fff;
-}
-
-.posto4 {
-  grid-column: 5/8;
-  grid-row: 4/7;
-  background-color: #fff;
-}
-
-.posto5 {
-  grid-column: 9/12;
-  grid-row: 1/4;
-  background-color: #fff;
-}
-
-.posto6 {
-  grid-column: 9/12;
-  grid-row: 4/7;
-  background-color: #fff;
-}
-
-.posto7 {
-  grid-column: 13/16;
-  grid-row: 1/4;
-  background-color: #fff;
-}
-
-.posto8 {
-  grid-column: 13/16;
-  grid-row: 4/7;
-  background-color: #fff;
-}
-
-.posto9 {
-  grid-column: 17/20;
-  grid-row: 1/4;
-  background-color: #fff;
+.posto-image > img {
+  width: 100%;
+  height: 100%;
 }

@@ -7,9 +7,11 @@
 
 /* Attributi specifici dell'immagine di copertina di Home */
 
-.image {
+.image-home {
   background: url("/img/home-sito.jpg");
   background-position: bottom;
+  background-size: cover;
+  background-position: 50% 70%;
 }
 
 /* Dimensione massima del Wrapper per evitare che si debba scrollare */

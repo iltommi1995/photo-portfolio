@@ -1,8 +1,9 @@
 import React from "react";
 
 import "../../css/pages/places.css";
-import "../../css/generic.css";
+
 import Place from "../organisms/place";
+
 import placesData from "../../data/places.json";
 
 export default function Places() {

@@ -9,7 +9,11 @@ export default function PlaceAlbumPhotos(props) {
 
   return (
     <div class={props.class}>
-      <img src={props.path} onClick={() => setModalIsOpen(!modalIsOpen)} />
+      <img
+        src={props.path}
+        onClick={() => setModalIsOpen(!modalIsOpen)}
+        className="photo-placeAlbum"
+      />
       <Modal isOpen={modalIsOpen} className="modale">
         <div
           className="img-modal"

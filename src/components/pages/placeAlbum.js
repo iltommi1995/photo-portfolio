@@ -45,7 +45,7 @@ class PlaceAlbum extends Component {
 
     return (
       <div class="outer-wrapper">
-        <div class="wrapper">
+        <div class="wrapper wrapper-placeAlbum">
           {dataFoto
             .filter(filterPlace)
             .filter(function (e) {
@@ -55,7 +55,7 @@ class PlaceAlbum extends Component {
               <PlaceAlbumCover name={dati.place} path={dati.path} />
             ))}
 
-          <div class="slide one grid">
+          <div class="slide one grid grid-placeAlbum">
             {foto2019.length > 0 && <PlaceAlbumYear year="2019" />}
             {foto2019.length > 0 &&
               foto2019.map((data) => (
