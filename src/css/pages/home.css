@@ -8,7 +8,7 @@
 /* Attributi specifici dell'immagine di copertina di Home */
 
 .image-home {
-  background: url("/img/home-sito.jpg");
+  background: url("/img/milan/2017/milan_6.jpg");
   background-position: bottom;
   background-size: cover;
   background-position: 50% 70%;
@@ -23,7 +23,7 @@
 /* Nome del sito */
 
 .site-title {
-  grid-column: 7/11;
+  grid-column: 6/11;
   text-align: right;
-  font-size: 30px;
+  font-size: 2rem;
 }

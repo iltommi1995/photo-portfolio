@@ -24,12 +24,10 @@ export default function PlaceAlbumPhotos(props) {
             backgroundPosition: "center",
           }}
         ></div>
-        <button
+        <div
+          className="arrow btn-close-modal"
           onClick={() => setModalIsOpen(!modalIsOpen)}
-          className="btn-close-modal"
-        >
-          Close
-        </button>
+        ></div>
       </Modal>
     </div>
   );

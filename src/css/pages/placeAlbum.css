@@ -40,12 +40,14 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  font-size: 2rem;
 }
 
 /* Attributi specifici delle singole fotografie degli album */
 
 .photo-placeAlbum {
   height: 100%;
+  cursor: pointer;
 }
 
 /* Classi delle fotografie in base alla dimensione */
@@ -53,9 +55,19 @@
 .quattro-terzi {
   grid-row: span 3;
   grid-column: span 4;
+  transition: padding 0.5s ease;
+}
+
+.quattro-terzi:hover {
+  padding: 5px;
 }
 
 .sedici-noni {
   grid-row: span 3;
   grid-column: span 6;
+  transition: padding 0.5s ease;
+}
+
+.sedici-noni:hover {
+  padding: 5px;
 }

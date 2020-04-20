@@ -71,6 +71,11 @@ class PlaceAlbum extends Component {
               foto2017.map((data) => (
                 <PlaceAlbumPhotos class={data.class} path={data.path} />
               ))}
+            {foto2016.length > 0 && <PlaceAlbumYear year="2016" />}
+            {foto2016.length > 0 &&
+              foto2016.map((data) => (
+                <PlaceAlbumPhotos class={data.class} path={data.path} />
+              ))}
           </div>
         </div>
       </div>
