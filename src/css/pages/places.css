@@ -22,14 +22,11 @@
 .posto-image {
   width: 100%;
   height: 66%;
-}
-
-.posto-image > img {
-  width: 100%;
-  height: 100%;
+  background-size: cover;
+  background-position: center;
   transition: transform 0.5s ease;
 }
 
-.posto-image > img:hover {
+.posto-image:hover {
   transform: scale(0.93);
 }

@@ -56,6 +56,11 @@ class PlaceAlbum extends Component {
             ))}
 
           <div class="slide one grid grid-placeAlbum">
+            {foto2020.length > 0 && <PlaceAlbumYear year="2020" />}
+            {foto2020.length > 0 &&
+              foto2020.map((data) => (
+                <PlaceAlbumPhotos class={data.class} path={data.path} />
+              ))}
             {foto2019.length > 0 && <PlaceAlbumYear year="2019" />}
             {foto2019.length > 0 &&
               foto2019.map((data) => (

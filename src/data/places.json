@@ -16,8 +16,8 @@
   },
   {
     "id": 4,
-    "name": "Costa Rica",
-    "img": "/img/costa_rica/costa_rica_cover.jpg"
+    "name": "Dresden",
+    "img": "/img/dresden/2018/dresden_4.jpg"
   },
   {
     "id": 5,
@@ -37,11 +37,16 @@
   {
     "id": 8,
     "name": "Rome",
-    "img": "/img/rome/rome_cover.jpg"
+    "img": "/img/rome/2020/rome_1.jpg"
   },
   {
     "id": 9,
     "name": "Stockholm",
     "img": "/img/stockholm/stockholm_cover.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Prague",
+    "img": "/img/prague/2018/prague_2.jpg"
   }
 ]

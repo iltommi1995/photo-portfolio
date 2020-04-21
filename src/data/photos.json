@@ -568,5 +568,285 @@
     "digital": true,
     "mainImage": false,
     "class": "quattro-terzi"
+  },
+  {
+    "id": 58,
+    "path": "/img/dresden/2018/dresden_1.jpg",
+    "place": "Dresden",
+    "year": 2018,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 59,
+    "path": "/img/dresden/2018/dresden_2.jpg",
+    "place": "Dresden",
+    "year": 2018,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 60,
+    "path": "/img/dresden/2018/dresden_3.jpg",
+    "place": "Dresden",
+    "year": 2018,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 61,
+    "path": "/img/dresden/2018/dresden_4.jpg",
+    "place": "Dresden",
+    "year": 2018,
+    "color": false,
+    "digital": true,
+    "mainImage": true,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 62,
+    "path": "/img/dresden/2018/dresden_5.jpg",
+    "place": "Dresden",
+    "year": 2018,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 63,
+    "path": "/img/dresden/2018/dresden_7.jpg",
+    "place": "Dresden",
+    "year": 2018,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 64,
+    "path": "/img/dresden/2018/dresden_8.jpg",
+    "place": "Dresden",
+    "year": 2018,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 65,
+    "path": "/img/dresden/2018/dresden_9.jpg",
+    "place": "Dresden",
+    "year": 2018,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 66,
+    "path": "/img/prague/2018/prague_1.jpg",
+    "place": "Prague",
+    "year": 2018,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 67,
+    "path": "/img/prague/2018/prague_2.jpg",
+    "place": "Prague",
+    "year": 2018,
+    "color": false,
+    "digital": true,
+    "mainImage": true,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 68,
+    "path": "/img/prague/2018/prague_3.jpg",
+    "place": "Prague",
+    "year": 2018,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 69,
+    "path": "/img/prague/2018/prague_4.jpg",
+    "place": "Prague",
+    "year": 2018,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 70,
+    "path": "/img/prague/2018/prague_5.jpg",
+    "place": "Prague",
+    "year": 2018,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 71,
+    "path": "/img/prague/2018/prague_6.jpg",
+    "place": "Prague",
+    "year": 2018,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 72,
+    "path": "/img/prague/2018/prague_7.jpg",
+    "place": "Prague",
+    "year": 2018,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 73,
+    "path": "/img/prague/2018/prague_8.jpg",
+    "place": "Prague",
+    "year": 2018,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 74,
+    "path": "/img/prague/2018/prague_9.jpg",
+    "place": "Prague",
+    "year": 2018,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 75,
+    "path": "/img/prague/2018/prague_10.jpg",
+    "place": "Prague",
+    "year": 2018,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 76,
+    "path": "/img/prague/2018/prague_11.jpg",
+    "place": "Prague",
+    "year": 2018,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 77,
+    "path": "/img/prague/2018/prague_12.jpg",
+    "place": "Prague",
+    "year": 2018,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 78,
+    "path": "/img/prague/2018/prague_13.jpg",
+    "place": "Prague",
+    "year": 2018,
+    "color": false,
+    "digital": true,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 79,
+    "path": "/img/rome/2020/rome_1.jpg",
+    "place": "Rome",
+    "year": 2020,
+    "color": false,
+    "digital": false,
+    "mainImage": true,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 80,
+    "path": "/img/rome/2020/rome_2.jpg",
+    "place": "Rome",
+    "year": 2020,
+    "color": false,
+    "digital": false,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 81,
+    "path": "/img/rome/2020/rome_3.jpg",
+    "place": "Rome",
+    "year": 2020,
+    "color": false,
+    "digital": false,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 82,
+    "path": "/img/rome/2020/rome_4.jpg",
+    "place": "Rome",
+    "year": 2020,
+    "color": false,
+    "digital": false,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 83,
+    "path": "/img/rome/2020/rome_5.jpg",
+    "place": "Rome",
+    "year": 2020,
+    "color": false,
+    "digital": false,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 84,
+    "path": "/img/rome/2020/rome_6.jpg",
+    "place": "Rome",
+    "year": 2020,
+    "color": false,
+    "digital": false,
+    "mainImage": false,
+    "class": "quattro-terzi"
+  },
+  {
+    "id": 85,
+    "path": "/img/rome/2020/rome_7.jpg",
+    "place": "Rome",
+    "year": 2020,
+    "color": false,
+    "digital": false,
+    "mainImage": false,
+    "class": "quattro-terzi"
   }
 ]
